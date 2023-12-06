@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\bin\Debug\net7.0\Cronometer_console.exe
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\bin\Debug\net7.0\Cronometer_console.deps.json
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\bin\Debug\net7.0\Cronometer_console.runtimeconfig.json
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\bin\Debug\net7.0\Cronometer_console.dll
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\bin\Debug\net7.0\Cronometer_console.pdb
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\Cronometer_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\Cronometer_console.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\Cronometer_console.AssemblyInfo.cs
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\Cronometer_console.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\Cronometer_console.dll
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\refint\Cronometer_console.dll
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\Cronometer_console.pdb
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\Cronometer_console.genruntimeconfig.cache
+C:\Projetos\GitHub\Cursos\C#\Cronometer_console\obj\Debug\net7.0\ref\Cronometer_console.dll
